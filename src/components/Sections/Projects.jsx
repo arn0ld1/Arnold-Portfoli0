@@ -51,7 +51,7 @@ const Projects = () => {
                 className="flex justify-between items-center"
               >
                 <a 
-                  href="#"
+                  href="https://github.com/arn0ld1/Insta-clone"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
                 >
                    View Project 👉 
